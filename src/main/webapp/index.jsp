@@ -54,7 +54,7 @@
 						<!-- About -->
 							<article id="about">
 								<h2 class="major">About</h2>
-								<span class="image main"><img src="" alt="" /></span>
+								<span class="image main"><img src="images/nirosh.png" alt="" /></span>
 								<p>PSPS puppet master "Nirosh Waduge" creation</p>
 							</article>
 					</div>
