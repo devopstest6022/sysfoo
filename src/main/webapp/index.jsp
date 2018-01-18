@@ -23,15 +23,15 @@
 						<div>
 						<nav>
 								<ul class="actions">
-										<li><a  class="button special">Sysfoo</a></li>
+										<li><a  class="button special">PSPS Puppet</a></li>
 									</ul>
 
 						</nav>
 							</div>
 						<div class="content">
 							<div class="Hello_Suresh">
-								<h1>vThis is manage by PSPS puppet </h1>
-								<h2>SYSTEM INFO</h2>
+								<h1>Hello Suresh</h1>
+								<h2>This is PSPS puppet manage server</h2>
 								<a  class="button special"><% out.println(request.getLocalAddr()); %></a>
 								<p>
 								<h3><% out.println("IP address  :  " + request.getLocalAddr()); %></h3>
@@ -42,7 +42,7 @@
 						</div>
 						<nav>
 							<ul>
-								<li><a href="#about">School of Devops</a></li>
+								<li><a href="#about">PSPS Puppet</a></li>
 							</ul>
 						</nav>
 					</header>
