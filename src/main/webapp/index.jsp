@@ -29,8 +29,8 @@
 						</nav>
 							</div>
 						<div class="content">
-							<div class="inner">
-								<h1>version 0.0.2 </h1>
+							<div class="Hello_Suresh">
+								<h1>vThis is manage by PSPS puppet </h1>
 								<h2>SYSTEM INFO</h2>
 								<a  class="button special"><% out.println(request.getLocalAddr()); %></a>
 								<p>
